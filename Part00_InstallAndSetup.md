@@ -22,7 +22,7 @@ sudo python3 -m pip install "discord.py[voice]" youtube_dl
 # python dependency, for your user only
 python3 -m pip install --user "discord.py[voice]" youtube_dl
 
-## The [voice] extension and the youtube_dl are optional for now, but we will need it for part 3.
+## The [voice] extra and youtube_dl are optional for now, but we will need them for part 03.
 ```
 
 *If you don't use Fedora, you can figure out how to get python3 and pip.*
