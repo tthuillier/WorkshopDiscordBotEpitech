@@ -29,12 +29,12 @@ python3 -m pip install --user "discord.py[voice]" youtube_dl
 
 ### :envelope: Invitation
 
-**We recommand that your create yourself a Discord server dedicated to bot testing.**
+**We recommend that you create yourself a Discord server dedicated to bot testing.**
 
 ![Image](Assets/invite.png)  
 On your bot's page, in the `OAuth2` category, select the `bot` scope and the `Administrator` permissions. Then copy paste the suggested link into your browser in order to invite the bot on your server.
 
-*Of course, if you want to release your bot to the public, you would just select the permissions you need. But for development purpose, it's easier to have full power.* :)
+*Of course, if you want to release your bot to the public, you would just select the permissions you need. But for development purposes, it's easier to have full power.* :)
 
 ### :gear: Run
 
